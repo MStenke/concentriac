@@ -29,6 +29,7 @@
    3-privatecloud/dayinlife/dayinlife
    3-privatecloud/prismops/prismops_capacity_lab/prismops_capacity_lab
    3-privatecloud/prismops/prismops_rightsize_lab/prismops_rightsize_lab
+   3-privatecloud/security/security
    3-privatecloud/files/files
    3-privatecloud/flow_secure_fiesta/flow_secure_fiesta
 
