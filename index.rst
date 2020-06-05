@@ -96,12 +96,14 @@ Diese Nutanix Hosted PoC Webseite führt Sie Schritt für Schritt durch die vers
 Der Hosted PoC  besteht primär aus folgenden Hauptbestandteilen:
 
 Teil 1: Basis Labs
-  Geben Ihnen ein ersten Überblick über die Basis Routine Aufgaben / Möglichkeiten in einem Nutanix Cluster, etwa Storage, Netzwerk und Data Protection Konfiguration.
 
 Teil 2: Private Cloud Labs
-  Hier lernen Sie anhand einzelner Labs Schritt für Schritt erweiterte Nutanix Funktionalitäten anhand des Beispiel-Betriebs einer Private Cloud kennen.
 
-Teil 3: Optionale Labs
-  Zusätzlich gibt es optional die Möglichkeit das Thema Backup und Replikation mit HYCU und Veeam auszuprobieren, sowie eine Continuous Integration / Continuous Delivery (CI/CD) Pipeline mit Karbon und Calm aufzubauen.
+Teil 3: Calm Labs
+
+Teil 4: Era Labs
+
+Teil 5: Optionale Labs (HYCU / Objects / Karbon)
+
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**

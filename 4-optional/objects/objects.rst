@@ -1,7 +1,7 @@
 .. _objects:
 
 ---------------
-Objects
+Nutanix Objects
 ---------------
 
 *The estimated time to complete this lab is 60 minutes.*
