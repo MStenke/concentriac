@@ -48,7 +48,22 @@
    5-calm/calm_marketplace/calm_marketplace
    5-calm/flow_assign_categories_in_calm/flow_assign_categories_in_calm
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Era Labs
+   :hidden:
 
+   6-era/labsetup/labsetup
+   6-era/deploy_mssql/deploy_mssql
+   6-era/admin_mssqldb/admin_mssqldb
+   6-era/deploy_mssql_era/deploy_mssql_era
+   6-era/aag/aag
+   6-era/cloning_with_calm/cloning_with_calm
+   6-era/flow_secure_fiesta/flow_secure_fiesta
+   6-era/flow_isolate_fiesta/flow_isolate_fiesta
+   6-era/era_rest_api/era_rest_api
+   
+   
 .. toctree::
    :maxdepth: 2
    :caption: Optionale Labs
