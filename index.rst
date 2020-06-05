@@ -55,6 +55,7 @@
    :hidden:
 
    4-optional/hycu/hycu
+   4-optional/objects/objects
    4-optional/calm_karbon_cicd/karbon_cicd
 
 
